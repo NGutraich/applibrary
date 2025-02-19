@@ -1,0 +1,38 @@
+.
+├── README.md
+├── applibrary-setup.zip
+├── components.json
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── project-structure.txt
+├── public
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── src
+│   ├── app
+│   │   ├── api
+│   │   │   └── apps
+│   │   │       └── route.ts
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── AppList.tsx
+│   │   └── ui
+│   │       ├── button.tsx
+│   │       └── card.tsx
+│   └── lib
+│       ├── supabase.ts
+│       └── utils.ts
+├── tailwind.config.ts
+└── tsconfig.json
+
+9 directories, 27 files
